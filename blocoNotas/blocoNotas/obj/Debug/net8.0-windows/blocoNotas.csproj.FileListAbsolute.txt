@@ -1,0 +1,16 @@
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\bin\Debug\net8.0-windows\blocoNotas.exe
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\bin\Debug\net8.0-windows\blocoNotas.deps.json
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\bin\Debug\net8.0-windows\blocoNotas.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\bin\Debug\net8.0-windows\blocoNotas.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\bin\Debug\net8.0-windows\blocoNotas.pdb
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\blocoNotas.Form1.resources
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\blocoNotas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\blocoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\blocoNotas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\blocoNotas.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\blocoNotas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\blocoNotas.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\refint\blocoNotas.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\blocoNotas.pdb
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\blocoNotas.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\blocoNotas\blocoNotas\obj\Debug\net8.0-windows\ref\blocoNotas.dll
