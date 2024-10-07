@@ -24,6 +24,7 @@ namespace blocoNotas
         private void buttonSalvar_Click(object sender, EventArgs e)
         {
             File.WriteAllText(filename, textBox1.Text);
+            MessageBox.Show("Arquivo salvo com sucesso.");
         }
 
         private void label1_Click(object sender, EventArgs e)
